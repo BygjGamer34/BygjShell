@@ -31,19 +31,6 @@
 
 ---
 
-## 🚀 Instalación y Uso
-
-Este proyecto se distribuye como un ejecutable compilado para garantizar la seguridad y el rendimiento del software.
-
-1.  Ve a la sección de [Releases](https://github.com/BygjGamer34/BygjShell/releases).
-2.  Descarga el archivo `.jar` (requiere Java instalado).
-3.  Ejecuta la terminal con:
-    ```bash
-    java -jar BygjShell.jar
-    ```
-
----
-
 ## 🛡️ Seguridad y Licencia
 
 **BygjShell** es un proyecto de código cerrado desarrollado por **BygjGamer34**. 
