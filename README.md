@@ -36,12 +36,3 @@
 **BygjShell** es un proyecto de código cerrado desarrollado por **BygjGamer34**. 
 * No se permite la ingeniería inversa ni la redistribución del software sin permiso.
 * El uso de esta herramienta es bajo responsabilidad del usuario.
-
----
-
-## 📺 Contacto
-
-Si vienes del canal de YouTube, ¡gracias por el apoyo! 
-
-* **YouTube:** [@BygjGaming](https://www.youtube.com/@bygjgaming)
-* **Desarrollador:** BygjGamer34
